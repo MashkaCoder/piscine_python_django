@@ -1,1 +1,19 @@
-# Piscine python django
+# Piscine Python Django
+- **Day00**
+	- html basics
+- **Day01**
+	- python basic syntax
+	- creating html documents with Python
+- **Day02**
+	- OOP and inharitance
+- **Day03**
+	- requests
+	- creating virtual environment
+- **Day04**
+	- first Django project
+- **Day05**
+	- Forms and models
+- **Day06**
+	- Django forms and models
+- **Day07**
+	- First django website with user authorization
